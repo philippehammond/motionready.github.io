@@ -22,11 +22,10 @@
 
 .vid-info { 
   position: absolute; 
-  top: 0; 
-  right: 0; 
-  width: 33%; 
-  background: 
-  rgba(0,0,0,0.3); 
+  top: 20%; 
+  right: 20%; 
+  left: 20%; 
+  background: rgba(0,0,0,0.3); 
   color: #fff; 
   padding: 1rem; 
   font-family: "Open Sans", Helvetica, sans-serif; 
