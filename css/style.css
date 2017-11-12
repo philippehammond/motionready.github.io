@@ -25,7 +25,6 @@
   top: 20%; 
   right: 20%; 
   left: 20%; 
-  background: rgba(0,0,0,0.3); 
   color: #fff; 
   padding: 1rem; 
   font-family: "Open Sans", Helvetica, sans-serif; 
@@ -37,7 +36,19 @@
   line-height: 1.2; 
 }
 
-.vid-info a { display: block; color: #fff; text-decoration: none; background: rgba(0,0,0,0.5); -webkit-transition: .6s background; transition: .6s background; border-bottom: none; margin: 1rem auto; text-align: center; }
+.vid-info a { 
+  display: block; 
+  color: #fff; 
+  width: 50%;
+  text-decoration: none; 
+  background: rgba(0,0,0,0.5); 
+  -webkit-transition: .6s background; 
+  transition: .6s background; 
+  border-bottom: none; 
+  margin: 1rem auto; 
+  text-align: center; 
+}
+
 @media (min-aspect-ratio: 16/9) {
   .video-foreground { height: 300%; top: -100%; }
 }
