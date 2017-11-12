@@ -28,21 +28,19 @@
   color: #000000; 
   padding: 1rem; 
   font-family: "Open Sans", Helvetica, sans-serif; 
+  text-align: center;
 }
 .vid-info h1 { 
   font-size: 2rem; 
   font-weight: 100; 
   margin-top: 0; 
   line-height: 1.2; 
-  text-align: center;
 }
 
 .vid-info a { 
   display: block; 
   color: #2793e6; 
-  width: 70%;
   text-decoration: none; 
-  background: rgba(0,0,0,0.5); 
   -webkit-transition: .6s background; 
   transition: .6s background; 
   border-bottom: none; 
