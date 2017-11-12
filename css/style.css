@@ -23,9 +23,9 @@
 .vid-info { 
   position: absolute; 
   top: 20%; 
-  right: 20%; 
-  left: 20%; 
-  color: #000000; 
+  right: 25%; 
+  left: 25%; 
+  color: #3c3c3c; 
   padding: 1rem; 
   font-family: "Open Sans", Helvetica, sans-serif; 
   text-align: center;
@@ -39,7 +39,7 @@
 
 .vid-info a { 
   display: block; 
-  color: #2793e6; 
+  color: #66a0fd; 
   text-decoration: none; 
   -webkit-transition: .6s background; 
   transition: .6s background; 
